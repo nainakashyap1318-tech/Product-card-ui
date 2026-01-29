@@ -19,10 +19,9 @@ A responsive product card component designed for e-commerce and product-based we
 - Designing for responsiveness
 
 ## Live Demo
-(Add GitHub Pages link here)
+(https://nainakashyap1318-tech.github.io/Product-card-ui/)
 
 ## Source Code
-(Add GitHub repository link here)
-
+(https://github.com/nainakashyap1318-tech/Product-card-ui)
 ## Author
 Naina
